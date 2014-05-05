@@ -1,0 +1,23 @@
+{
+  "name": "socket.io-session-mobile",
+  "version": "0.0.1",
+  "description": "This module uses io.set('authorization') to add a session property to socket.handshake.",
+  "keywords": [
+    "socket.io",
+    "session",
+    "express",
+    "express3",
+    "memory",
+    "store",
+    "middleware"
+  ],
+  "authors": [
+    {
+      "name": "Alan James",
+      "email": "alanjames1987@gmail.com",
+      "url":"http://alanjames1987.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alanjames1987/session.io-session-mobile"
+}
