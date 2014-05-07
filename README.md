@@ -1,4 +1,4 @@
-*socket.io-session-mobile!*
+socket.io-session-mobile
 ---
 
 Express and Connect both use cookies to maintain session information. Unfortunately, mobile operating systems like Android and iOS don't handle cookies well. Even browser based mobile frameworks, like Cordova/PhoneGap [don't support cookies](http://community.phonegap.com/nitobi/topics/authentication_session_cookies_in_android).
